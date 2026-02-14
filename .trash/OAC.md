@@ -1,0 +1,4 @@
+---
+aliases:
+  - Origin Access Control
+---
