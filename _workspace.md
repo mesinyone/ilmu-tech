@@ -6,6 +6,8 @@
 - [[EC2]]
 - [[Amazon ECR]]
 - [[AWS Fargate]]
+- [[AWS Step Functions]]
+- [[AWS App2Container]]
 ## Networking
 - [Egress-Only Internet Gateway]]
 - [[Amazon CloudFront]]
