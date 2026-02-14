@@ -1,6 +1,7 @@
-## Storage, DB
+## Storage, DB, File System
 - [[Amazon Data Firehose]]
 - [[Amazon DynamoDB]]
+- [[Amazon FSx]]
 ## Computing
 - [[EC2]]
 - [[Amazon ECR]]
@@ -13,3 +14,4 @@
 ## Data Processing
 - [[AWS Glue]]
 - [[Amazon EMR]]
+- [[Amazon OpenSearch Service]]
