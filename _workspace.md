@@ -1,6 +1,8 @@
 ## Storage, DB
 - [[Amazon Data Firehose]]
 - [[Amazon DynamoDB]]
+## Computing
+- [[Amazon ECR]]
 ## Networking
 - [Egress-Only Internet Gateway]]
 - [[Amazon CloudFront]]
