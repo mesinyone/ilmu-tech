@@ -23,12 +23,13 @@ tags:
 - [[AWS Lake Formation]]
 - [[Amazon QuickSight]]
 ## Computing
-- [[EC2]]
+- [[Amazon EC2]]
+	- [[Amazon EBS]]
 - [[Amazon ECR]]
 - [[Amazon ECS]]
 - [[AWS Fargate]]
-- [[AWS Step Functions]]
 - [[AWS App2Container]]
+- [[AWS Step Functions]]
 ## Networking
 - [[VPC]]
 - [[Egress-Only Internet Gateway]]

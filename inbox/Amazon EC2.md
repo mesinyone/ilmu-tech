@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - EC2
 tags:
   - t/term
 ---
@@ -21,3 +22,5 @@ tags:
 - クラスター
 	- 物理的に近づける
 	- レイテンシーが下がる
+
+[[Amazon EBS]]
