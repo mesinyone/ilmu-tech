@@ -5,9 +5,10 @@ tags:
 ---
 ## Storage, DB, File System
 - [[Amazon RDS]]
-- [[Amazon Data Firehose]]
 - [[Amazon DynamoDB]]
+- [[Amazon Data Firehose]]
 - [[Amazon FSx]]
+- [[AWS Directory Service]]
 ## Computing
 - [[EC2]]
 - [[Amazon ECR]]
@@ -15,7 +16,8 @@ tags:
 - [[AWS Step Functions]]
 - [[AWS App2Container]]
 ## Networking
-- [Egress-Only Internet Gateway]]
+- [[VPC]]
+- [[Egress-Only Internet Gateway]]
 - [[Amazon CloudFront]]
 ## Monitoring, Log
 - [[Network Synthetic Monitor]]
