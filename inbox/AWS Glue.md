@@ -8,3 +8,6 @@ tags:
 [[Amazon EMR]]は、AWS Glueよりも大規模なデータを扱う
 
 Glue Crawler
+データソースをクロールし、スキーマを自動検出。[[Glue Data Catalog]]に登録
+
+[[Amazon Kinesis]]はストリーミングデータの処理を行い、S3などに保存。それをGlueで[[ETL]]する
