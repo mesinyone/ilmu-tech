@@ -1,6 +1,7 @@
 ---
 aliases: []
-tags: []
+tags:
+  - t/wiki
 ---
 ## Storage, DB, File System
 - [[Amazon Data Firehose]]
