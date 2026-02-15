@@ -38,6 +38,8 @@ tags:
 ## Monitoring, Log
 - [[Network Synthetic Monitor]]
 - [[AWS Trusted Advisor]]
+- [[Amazon CloudWatch]]
+- [[AWS CloudTrail]]
 
 ## Others
 - [[Amazon AppFlow]]
