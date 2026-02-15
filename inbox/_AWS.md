@@ -37,6 +37,7 @@ tags:
 - [[AWS Direct Connect]]
 - [[AWS VPN]]
 - [[Amazon Route 53]]
+- [[AWS Global Accelerator]]
 ## Monitoring, Log
 - [[Network Synthetic Monitor]]
 - [[AWS Trusted Advisor]]
