@@ -7,6 +7,7 @@ tags:
 - [[Amazon RDS]]
 - [[Amazon DynamoDB]]
 - [[Amazon Athena]]
+- [[Amazon Redshift]]
 ## Storage, File System
 - [[Amazon Data Firehose]]
 - [[Amazon FSx]]
@@ -34,3 +35,4 @@ tags:
 
 ## Others
 - [[Amazon AppFlow]]
+- [[Amazon SQS]]
