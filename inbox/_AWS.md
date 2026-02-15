@@ -13,6 +13,7 @@ tags:
 - [[Amazon FSx]]
 - [[AWS Directory Service]]
 - [[Amazon EFS]]
+- [[AWS Storage Gateway]]
 ## Data Processing
 - [[AWS Glue]]
 - [[Amazon EMR]]
@@ -38,6 +39,7 @@ tags:
 - [[AWS VPN]]
 - [[Amazon Route 53]]
 - [[AWS Global Accelerator]]
+- [[AWS Elastic Load Balancer]]
 ## Monitoring, Log
 - [[Network Synthetic Monitor]]
 - [[AWS Trusted Advisor]]
