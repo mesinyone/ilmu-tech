@@ -29,6 +29,7 @@ tags:
 - [[VPC]]
 - [[Egress-Only Internet Gateway]]
 - [[Amazon CloudFront]]
+- [[AWS Direct Connect]]
 ## Monitoring, Log
 - [[Network Synthetic Monitor]]
 - [[AWS Trusted Advisor]]
