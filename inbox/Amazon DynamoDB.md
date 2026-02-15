@@ -1,6 +1,8 @@
 ---
 aliases:
   - Dynamo
+tags:
+  - t/term
 ---
 Capacity Unit: 1秒間にどれくらい読み書きするか
 - RCU

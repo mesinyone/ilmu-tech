@@ -1,3 +1,7 @@
+---
+aliases: []
+tags: []
+---
 ## Storage, DB, File System
 - [[Amazon Data Firehose]]
 - [[Amazon DynamoDB]]

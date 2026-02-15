@@ -1,5 +1,7 @@
 ---
-aliases:
+aliases: []
+tags:
+  - t/term
 ---
 使い慣れたファイルサーバーを、そのままAWS上で使える
 1. FSx for Windows File Server
