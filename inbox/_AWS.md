@@ -7,7 +7,7 @@ tags:
 - [[Amazon RDS]]
 - [[Amazon DynamoDB]]
 - [[Amazon Athena]]
-## 
+## Storage, File System
 - [[Amazon Data Firehose]]
 - [[Amazon FSx]]
 - [[AWS Directory Service]]
@@ -17,6 +17,7 @@ tags:
 - [[Amazon EMR]]
 - [[Amazon OpenSearch Service]]
 - [[AWS Lake Formation]]
+- [[Amazon QuickSight]]
 ## Computing
 - [[EC2]]
 - [[Amazon ECR]]
