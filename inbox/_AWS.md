@@ -30,6 +30,7 @@ tags:
 - [[Egress-Only Internet Gateway]]
 - [[Amazon CloudFront]]
 - [[AWS Direct Connect]]
+- [[Amazon Route 53]]
 ## Monitoring, Log
 - [[Network Synthetic Monitor]]
 - [[AWS Trusted Advisor]]

@@ -7,7 +7,7 @@ tags:
 1. FSx for Windows File Server
     - 用途: [[Windows]]の共有フォルダ（[[Active Directory]]連携など）。
     - メリット 会社のWindows PCから「Zドライブ」として繋ぐような使い方がそのままできます。
-2. FSx for Lustre
+2. FSx for [[Lustre]]
     - 用途: 機械学習やスパコンのような、超高速な読み書きが必要な場合。 -> [[HPC]]など
     - メリット: [[Amazon S3]]と連携して、大量のデータを爆速で処理できます。
 3. FSx for NetApp ONTAP
