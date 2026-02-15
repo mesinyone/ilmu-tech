@@ -9,13 +9,15 @@ tags:
 - [[Amazon Athena]]
 - [[Amazon Redshift]]
 ## Storage, File System
-- [[Amazon Data Firehose]]
+- [[Amazon S3]]
 - [[Amazon FSx]]
 - [[AWS Directory Service]]
 - [[Amazon EFS]]
 ## Data Processing
 - [[AWS Glue]]
 - [[Amazon EMR]]
+- [[Amazon Data Firehose]]
+- [[Amazon Kinesis Video Streams]]
 - [[Amazon OpenSearch Service]]
 - [[AWS Lake Formation]]
 - [[Amazon QuickSight]]
