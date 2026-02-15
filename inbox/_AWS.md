@@ -9,6 +9,7 @@ tags:
 - [[Amazon Data Firehose]]
 - [[Amazon FSx]]
 - [[AWS Directory Service]]
+- [[Amazon EFS]]
 ## Computing
 - [[EC2]]
 - [[Amazon ECR]]
