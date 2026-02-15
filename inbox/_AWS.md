@@ -3,13 +3,20 @@ aliases: []
 tags:
   - t/wiki
 ---
-## Storage, DB, File System
+## DB
 - [[Amazon RDS]]
 - [[Amazon DynamoDB]]
+- [[Amazon Athena]]
+## 
 - [[Amazon Data Firehose]]
 - [[Amazon FSx]]
 - [[AWS Directory Service]]
 - [[Amazon EFS]]
+## Data Processing
+- [[AWS Glue]]
+- [[Amazon EMR]]
+- [[Amazon OpenSearch Service]]
+- [[AWS Lake Formation]]
 ## Computing
 - [[EC2]]
 - [[Amazon ECR]]
@@ -22,10 +29,7 @@ tags:
 - [[Amazon CloudFront]]
 ## Monitoring, Log
 - [[Network Synthetic Monitor]]
-## Data Processing
-- [[AWS Glue]]
-- [[Amazon EMR]]
-- [[Amazon OpenSearch Service]]
+- [[AWS Trusted Advisor]]
 
 ## Others
 - [[Amazon AppFlow]]
