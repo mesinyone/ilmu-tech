@@ -34,6 +34,7 @@ tags:
 - [[Egress-Only Internet Gateway]]
 - [[Amazon CloudFront]]
 - [[AWS Direct Connect]]
+- [[AWS VPN]]
 - [[Amazon Route 53]]
 ## Monitoring, Log
 - [[Network Synthetic Monitor]]
@@ -44,3 +45,6 @@ tags:
 ## Others
 - [[Amazon AppFlow]]
 - [[Amazon SQS]]
+
+
+## Non AWS
