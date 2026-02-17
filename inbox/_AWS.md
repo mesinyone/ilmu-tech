@@ -16,7 +16,7 @@ tags:
 - [[Amazon EFS]]
 - [[AWS Storage Gateway]]
 ## Data Processing
-- [[AWS Glue]]
+- [AWS Glue](AWS%20Glue.md)
 - [[Amazon EMR]]
 - [[Amazon Data Firehose]]
 - [[Amazon Kinesis]]
@@ -31,7 +31,7 @@ tags:
 - [[Amazon ECS]]
 - [[AWS Fargate]]
 - [[AWS App2Container]]
-- [[AWS Step Functions]]
+- [AWS Step Functions](inbox/AWS%20Step%20Functions.md)
 ## Networking
 - [[VPC]]
 - [[Egress-Only Internet Gateway]]
