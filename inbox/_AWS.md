@@ -41,6 +41,7 @@ tags:
 - [[Amazon Route 53]]
 - [[AWS Global Accelerator]]
 - [[AWS Elastic Load Balancer]]
+- [[Amazon API Gateway]]
 ## Monitoring, Log
 - [[Network Synthetic Monitor]]
 - [[AWS Trusted Advisor]]
