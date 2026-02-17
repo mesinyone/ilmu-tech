@@ -51,7 +51,7 @@ tags:
 ## Others
 - [[Amazon AppFlow]]
 - [[Amazon SQS]]
-
+- [[AWS Elastic Beanstalk]]
 
 ## Non AWS
 [[Disaster Recovery]]
