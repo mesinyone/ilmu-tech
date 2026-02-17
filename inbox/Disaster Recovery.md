@@ -14,4 +14,4 @@ tags:
 	- 本番と同じやつをサブ稼働
 
 
-- Exponential Backoff
+- [[Exponential Backoff]]
