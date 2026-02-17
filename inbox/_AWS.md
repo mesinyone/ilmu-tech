@@ -47,6 +47,7 @@ tags:
 - [[AWS Trusted Advisor]]
 - [[Amazon CloudWatch]]
 - [[AWS CloudTrail]]
+- [[AWS Control Tower]]
 
 ## Others
 - [[Amazon AppFlow]]
