@@ -12,3 +12,6 @@ tags:
 	- 本番よりも規模を落としたものを常時稼働させておく
 - Multi-site
 	- 本番と同じやつをサブ稼働
+
+
+- Exponential Backoff
