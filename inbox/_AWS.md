@@ -48,6 +48,7 @@ tags:
 - [[Amazon CloudWatch]]
 - [[AWS CloudTrail]]
 - [[AWS Control Tower]]
+- [[AWS KMS]]
 
 ## Others
 - [[Amazon AppFlow]]
