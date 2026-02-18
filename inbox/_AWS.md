@@ -8,8 +8,7 @@ tags:
 - [[Amazon DynamoDB]]
 - [[Amazon Athena]]
 - [[Amazon Redshift]]
-- [Amazon ElastiCache](Amazon%20ElastiCache.md)
-- 
+- [[Amazon ElastiCache]]
 ## Storage, File System
 - [[Amazon S3]]
 - [[Amazon FSx]]
@@ -43,13 +42,14 @@ tags:
 - [[AWS Global Accelerator]]
 - [[AWS Elastic Load Balancer]]
 - [[Amazon API Gateway]]
-## Monitoring, Log
+## Monitoring, Log, Security
 - [[Network Synthetic Monitor]]
 - [[AWS Trusted Advisor]]
 - [[Amazon CloudWatch]]
 - [[AWS CloudTrail]]
 - [[AWS Control Tower]]
 - [[AWS KMS]]
+- [[AWS Shield]]
 
 ## Others
 - [[Amazon AppFlow]]

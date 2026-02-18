@@ -9,3 +9,6 @@ OAC:
 
 フィールドレベル暗号化
 ユーザーから送信されたHTMLフォームのPOSTリクエストのうち、一部のフィールドを暗号化し、特定のアプリケーションでのみ復号可能とする
+
+Cache TTL
+Time to Live. Specify by URL path
