@@ -1,1 +1,1 @@
-[_AWS](inbox/_AWS.md)
+[[_AWS]]
