@@ -8,6 +8,7 @@ tags:
 - [[Amazon DynamoDB]]
 - [[Amazon Athena]]
 - [[Amazon Redshift]]
+- [[Amazon Aurora]]
 - [[Amazon ElastiCache]]
 ## Storage, File System
 - [[Amazon S3]]
