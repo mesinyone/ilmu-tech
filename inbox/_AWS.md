@@ -4,11 +4,11 @@ tags:
   - t/wiki
 ---
 ## DB
-- [[Amazon RDS]]
-- [[Amazon DynamoDB]]
-- [[Amazon Athena]]
-- [[Amazon Redshift]]
-- [[Amazon ElastiCache]]
+- [Amazon RDS](Amazon%20RDS.md)
+- [Amazon DynamoDB](Amazon%20DynamoDB.md)
+- [Amazon Athena](Amazon%20Athena.md)
+- [Amazon Redshift](Amazon%20Redshift.md)
+- [Amazon ElastiCache](Amazon%20ElastiCache.md)
 ## Storage, File System
 - [[Amazon S3]]
 - [[Amazon FSx]]
