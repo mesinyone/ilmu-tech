@@ -12,3 +12,5 @@ Reserved Capacity: 事前予約によるコスト削減
 
 Auto Scaling
 負荷が大きい場合に自動でCapacity Unitを拡張させる。
+
+アプリケーション側で、プライマリテーブルから参照するようにすることはできない
