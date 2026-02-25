@@ -3,10 +3,11 @@ aliases: []
 tags:
   - t/term
 ---
-システムの健康診断
+Health check of the system.
 
-- [Amazon CloudWatch Network Monitor](Amazon%20CloudWatch%20Network%20Monitor.md)
+- [[Amazon CloudWatch]]
 	- [Network Synthetic Monitor](Network%20Synthetic%20Monitor.md)
+
 
 リソースごとの標準メトリクスでカバーできない項目は、カスタムメトリクスとして定義し、CLIコマンドやAPIで集計できる。EC2のメモリ使用量はカスタムメトリクス。メモリ使用量が標準メトリクスにない理由は、恐らくEC2のOS領域はユーザー側の責任領域にあたるから。
 
